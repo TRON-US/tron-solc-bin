@@ -1,2 +1,2 @@
-# tronbox-compilers
-A repo containing all the compilers officially supported by TronBox
+# tron-solc-bin
+A repo containing all the compilers officially supported by Tron
