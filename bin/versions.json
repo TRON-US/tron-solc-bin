@@ -3,5 +3,6 @@
   "0.4.25": "0.4.25+commit.69a1e720.Emscripten.clang",
   "0.5.4": "0.5.4+commit.7b0de266.mod.Emscripten.clang",
   "0.5.8": "0.5.8+commit.1f148fe1.Emscripten.clang",
-  "0.5.9": "0.5.9+commit.ef2a04b8.Emscripten.clang"
+  "0.5.9": "0.5.9+commit.ef2a04b8.Emscripten.clang",
+  "0.5.10": "0.5.10+commit.a1d534ef.Emscripten.clang"
 }
